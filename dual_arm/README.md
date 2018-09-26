@@ -1,3 +1,3 @@
 # 双臂的程序
-双臂的moveit程序带部分神经网络无udp数据传输部分，moveit使用默认的kdl，因此位置不确定，还需改善
+双臂的moveit程序带部分神经网络无udp数据传输部分，moveit使用默认的kdl，因此位置不确定，还需改善  
 这里的PID控制不是用moveit规划的路径是move_to_position规划的路径
